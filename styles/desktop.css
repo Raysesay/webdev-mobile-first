@@ -73,8 +73,10 @@ th {
 tr:nth-child(odd) {
   background-color: #ccc;
 }
+.burger {
+  display: none;
+}
 
 
 /* Form Styling Needs Adding */
 
-<

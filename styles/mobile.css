@@ -51,3 +51,19 @@ nav ul li a {
   color: #fff;
   padding: 8px 0;
 }
+.burger > .line{
+  width: 35px;
+  height: 5px;
+  background-color: #fff;
+  margin: 6px 0;
+}
+#logo {
+  /* text-align: center; */
+  display:flex;
+  justify-content: space-between;
+  padding:5px;
+}
+nav{
+  overflow: hidden;
+  transition: height 0.5s;
+}
